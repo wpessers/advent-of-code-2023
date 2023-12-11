@@ -73,6 +73,6 @@ T55J5 684
 KK677 28
 KTJJT 220
 QQQJA 483";
-        assert_eq!("288", part1(input));
+        assert_eq!("6440", part1(input));
     }
 }
